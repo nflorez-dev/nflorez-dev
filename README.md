@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Nelson 👋</h1>
 <p align="center">Backend developer in training — building systems that stay reliable under unpredictable user behavior</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nelson-fl%C3%B3rez-26b788435/" target="_blank" rel="noopener">LinkedIn</a> ·
-  <a href="mailto:nflorez.dev@gmail.com">Email</a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
